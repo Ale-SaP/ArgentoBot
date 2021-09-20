@@ -8,6 +8,11 @@ This update does not only adds a LOT of functions, but it also introduced a modu
 
 Esta actualización no solo añade MUCHAS funciones, también introduce un sistema modular de cogs o engranajes, lo que hace mucho más facil añadir cosas individualmente sin arriesgar romper todo, y hace mucho más fácil encontrar las cosas.
 
+
+How to make it work? In line 45 of ArgentoBase, write down the root as it is written and add the token de Discord in the .env file.
+
+¿Cómo hacerlo funcionar? En la linea 45 de ArgentoBase, escribe la raíz del archivo como está indicado y añade el token de Discord en el archivo .env.
+
 The following is a list of features.
 La siguiente es una lista de funciones.
 
