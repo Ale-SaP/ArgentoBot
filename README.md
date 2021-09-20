@@ -6,7 +6,7 @@ The following is a list of features
 La siguiente es una lista de funciones
 
 `----ArgentoBot 1.1----`
-----Última revisión: 9/2021----
+---Última revisión: 9/2021---
 
 `---Básicos---`
 +PING ---> Pong!.
