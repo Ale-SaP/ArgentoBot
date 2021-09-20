@@ -1,6 +1,7 @@
 # ArgentoBot
 A small discord bot, filled with argentinian culture.
-Un pequeño bot de discord
+
+Un pequeño bot de discord lleno con cultura Argentina.
 
 The following is a list of features
 La siguiente es una lista de funciones
