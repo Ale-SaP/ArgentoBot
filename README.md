@@ -3,13 +3,13 @@ A small discord bot, filled with argentinian culture.
 
 Un pequeño bot de discord lleno con cultura Argentina.
 
-The following is a list of features
-La siguiente es una lista de funciones
 
-----ArgentoBot 1.1----`
+This update does not only adds a LOT of functions, but it also introduced a modular cogs system, which makes it a lot more easy to add individual stuff without risking breaking everything else, and making stuff easier to find.
 
-`----Última revisión: 9/2021----`
+Esta actualización no solo añade MUCHAS funciones, también introduce un sistema modular de cogs o engranajes, lo que hace mucho más facil añadir cosas individualmente sin arriesgar romper todo, y hace todo mucho más fácil de encontrar.
 
+The following is a list of features.
+La siguiente es una lista de funciones.
 
 
 `---Básicos---`
