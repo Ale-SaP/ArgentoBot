@@ -47,14 +47,14 @@ class Example(commands.Cog):
         
         await ctx.send("Continuando!")
     
-    @commands.command(alias=["pause"])
+    @commands.command(aliases=["pause"])
     async def PAUSE(self, ctx):
-        ctx.voice_client.pause
+        ctx.voice_client.pause()
         await ctx.send("Pausado!")
 
-    @commands.command(alias=["resume"])
+    @commands.command(aliases=["resume"])
     async def RESUME(self, ctx):
-        await ctx.voice_client.resume
+        await ctx.voice_client.resume()
         await ctx.send("Continuando!")
 
 
