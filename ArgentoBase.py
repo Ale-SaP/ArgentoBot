@@ -47,7 +47,7 @@ async def load(ctx, extension):
 async def unload(ctx, extension):
     client.unload_extension(f"cogs.{extension}")
 
-for filename in os.listdir("/media/sf_Proyectos/Python/botPython (copy)/cogs"):
+for filename in os.listdir(""):  #the root file of the cogs system, id recommend making a argentobot folder and the cogs folder inside 
     if filename.endswith("py"):
         client.load_extension(f"cogs.{filename[:-3]}")
     else: print(f"{filename} no se pudo cargar")
