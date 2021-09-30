@@ -53,6 +53,7 @@ A very Argentinian discord bot, made to suit all that one may need!.
 
 +RESUME ---> Continua la transmisión.
 
+___
 
 
 ## Patch notes
@@ -72,3 +73,5 @@ Last changes:
 >Better comments and explanations.
 >
 >Error messages.
+
+___
