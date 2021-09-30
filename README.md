@@ -68,11 +68,11 @@ ___
 
 >STS mejorado, ahora no debería presentar ningun error. 
 >
->Funciones relacionadas a Reddit añadidas (Aunque sigue en desarrollo).
+>Funciones relacionadas a Reddit añadidas (Aunque siguen en desarrollo).
 >
 >Varios cogs han sido combinados y renombrados para mayor cohesión.
 >
->El comando "help" ahora es sinónimo que el de "ayuda".
+>El comando "help" ahora es sinónimo de "ayuda".
 >
 >Mejores comentarios y explicaciones.
 >
