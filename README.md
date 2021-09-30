@@ -4,56 +4,56 @@ Un bot de Discord muy Argentino, versatil y con todo lo que podés llegar a nece
 ## ¿Qué hace?
 
 
-**Funciones Básicas**
+* *Funciones Básicas*
 
-+PING ---> Pong!.
+  * PING ---> Pong!.
 
-+RICK ---> RickRoll'ed.
+  * RICK ---> RickRoll'ed.
 
-+8BALL ---> Hacele una pregunta y te responde.
+  * 8BALL ---> Hacele una pregunta y te responde.
 
-+MORSE ---> Pasá cualquier texto a morse o viceversa.
+  * MORSE ---> Pasá cualquier texto a morse o viceversa.
 
-+CC ---> Convierte a notación científica.
-
-
-**Impuestos**
-
-+ST ---> Calcula impuesto a Servicios Digitales (9/21).
-
-+STI ---> Calcula impuestos sobre Items de Steam (9/21).
-
-+STS ---> Calcula impuestos de Juegos de Steam enviando un link (9/21).
-
-+UBI ---> Calcula los impuestos de la Ubisoft Store enviando un link (9/21).
+  * CC ---> Convierte a notación científica.
 
 
+* *Impuestos*
 
-**Links**
+  * ST ---> Calcula impuesto a Servicios Digitales (9/21).
 
-+ML ---> Enviá un link de Mercado Libre y recibí los datos mas relevantes en el canal.
+  * STI ---> Calcula impuestos sobre Items de Steam (9/21).
 
-+REDDIT ---> Enviá el nombre de un subreddit y recibí los últimos títulos en "Hot".
+  * STS ---> Calcula impuestos de Juegos de Steam enviando un link (9/21).
 
-+RDES ---> Envia los últimos títulos en "Hot" del subreddit r/DescuentosArgentina.
-
-
-**Hora**
-
-+TIME ---> Convierte cualquier hora que le pidas a otra zona horaria.
+  * UBI ---> Calcula los impuestos de la Ubisoft Store enviando un link (9/21).
 
 
-**Streaming**
 
-+CONNECT ---> El bot se conecta al canal de voz en que estés conectado.
+* *Links*
 
-+DISCONNECT ---> El bot se desconecta del canal que estés conectado.
+  * ML ---> Enviá un link de Mercado Libre y recibí los datos mas relevantes en el canal.
 
-+PLAY o +P ---> Al mandar un link, lo busca y lo pasa en el canal de voz.
+  * REDDIT ---> Enviá el nombre de un subreddit y recibí los últimos títulos en "Hot".
 
-+PAUSE ---> Pone la transmisión de audio en pausa.
+  * RDES ---> Envia los últimos títulos en "Hot" del subreddit r/DescuentosArgentina.
 
-+RESUME ---> Continua la transmisión.
+
+* *Hora*
+
+  * TIME ---> Convierte cualquier hora que le pidas a otra zona horaria.
+
+
+* *Streaming*
+
+  * CONNECT ---> El bot se conecta al canal de voz en que estés conectado.
+
+  * DISCONNECT ---> El bot se desconecta del canal que estés conectado.
+
+  * PLAY o +P ---> Al mandar un link, lo busca y lo pasa en el canal de voz.
+  
+  * PAUSE ---> Pone la transmisión de audio en pausa.
+
+  * RESUME ---> Continua la transmisión.
 
 ___
 
