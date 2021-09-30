@@ -6,14 +6,16 @@ Functionalities explained on ArgentoExplanations.py / Funciones explicadas en Ar
 
 
 Last changes: 
+>Unlike the previous update, most of changes will not be noticed by users and center more around the code; that being said, a few new functions have been added!
+>
 >Improved Steam Scraping module 
->
->Cogs have been renamed and merged.
->
->Better comments and explanations.
 >
 >Reddit scraping functionalities (They are stable but user experience will be improved on the next update).
 >
->Custom help commands
+>Cogs have been renamed and merged.
 >
->Error messages
+>Custom help commands.
+>
+>Better comments and explanations.
+>
+>Error messages.
