@@ -38,6 +38,8 @@ Un bot de Discord muy Argentino, versatil y con todo lo que podés llegar a nece
 +RDES ---> Envia los últimos títulos en "Hot" del subreddit r/DescuentosArgentina.
 
 
+**Hora**
+
 +TIME ---> Convierte cualquier hora que le pidas a otra zona horaria.
 
 
