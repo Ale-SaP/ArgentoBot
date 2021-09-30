@@ -1,5 +1,6 @@
 # ArgentoBot
 Un bot de Discord muy Argentino, versatil y con todo lo que podés llegar a necesitar.
+
 Se aceptan sugerencias y contribuciones; si llegás a encontrar algún error, reportalo!
 
 ## ¿Qué hace?
