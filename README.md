@@ -4,10 +4,10 @@ A small discord bot, filled with argentinian culture / Un pequeño bot de discor
 
 Functionalities explained on ArgentoExplanations.py / Funciones explicadas en ArgentoExplanations.py
 
+>Unlike the previous update, most of changes will not be noticed by users and center more around the code; that being said, a few new functions have been added!
 
 Last changes: 
->Unlike the previous update, most of changes will not be noticed by users and center more around the code; that being said, a few new functions have been added!
->
+
 >Improved Steam Scraping module 
 >
 >Reddit scraping functionalities (They are stable but user experience will be improved on the next update).
