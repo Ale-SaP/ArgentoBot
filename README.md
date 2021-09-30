@@ -77,3 +77,8 @@ ___
 >Nuevos mensajes de error.
 
 ___
+
+##¿Cómo lo hago funcionar?
+
+1. En ArgentoBase.py buscá la función que activa los cogs y poné tu root
+2. En .env colocá el token que Discord te proporciona.
