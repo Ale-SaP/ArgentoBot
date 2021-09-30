@@ -1,7 +1,7 @@
 # ArgentoBot
-A very Argentinian discord bot, made to suit all that one may need!.
+Un bot de Discord muy Argentino, versatil y con todo lo que podés llegar a necesitar.
 
-## What does it do?
+## ¿Qué hace?
 
 
 **Funciones Básicas**
@@ -58,20 +58,20 @@ ___
 
 ## Patch notes
 
->Unlike the previous update, most of changes will not be noticed by users and center more around the code; that being said, a few new functions have been added!
+>A diferencia de la actualización anterior, la mayoría de los cambios fueron estructurales, pero eso no significa que no haya nada nuevo!.
 
-Last changes: 
+Últimos cambios: 
 
->Improved Steam Scraping module 
+>STS mejorado, ahora no debería presentar ningun error. 
 >
->Reddit scraping functionalities (They are stable but user experience will be improved on the next update).
+>Funciones relacionadas a Reddit añadidas (Aunque sigue en desarrollo).
 >
->Cogs have been renamed and merged.
+>Varios cogs han sido combinados y renombrados para mayor cohesión.
 >
->Custom help commands.
+>El comando "help" ahora es sinónimo que el de "ayuda".
 >
->Better comments and explanations.
+>Mejores comentarios y explicaciones.
 >
->Error messages.
+>Nuevos mensajes de error.
 
 ___
