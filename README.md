@@ -1,5 +1,6 @@
 # ArgentoBot
 Un bot de Discord muy Argentino, versatil y con todo lo que podés llegar a necesitar.
+Se aceptan sugerencias y contribuciones; si llegás a encontrar algún error, reportalo!
 
 ## ¿Qué hace?
 
@@ -80,5 +81,5 @@ ___
 
 ## ¿Cómo lo hago funcionar?
 
-1. En ArgentoBase.py buscá la función que activa los cogs y poné tu root
+1. En ArgentoBase.py buscá en la linea 50 y poné tu root.
 2. En .env colocá el token que Discord te proporciona.
