@@ -1,4 +1,18 @@
 # ArgentoBot
+
+
+# Descontinuado
+
+
+Debido a que discord.py en general por el momento ha sido descontinuado, no queda otra opción que descontinuar ArgentoBot también.
+
+Aunque el proyecto fué descontinuado, muchos cogs y funciones pueden ser reutilizados para otros programas.
+
+El siguiente texto es el antiguo readme.
+
+
+
+
 Un bot de Discord muy Argentino, versatil y con todo lo que podés llegar a necesitar.
 
 Se aceptan sugerencias y contribuciones; si llegás a encontrar algún error, reportalo!
