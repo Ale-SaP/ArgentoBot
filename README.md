@@ -1,6 +1,3 @@
-# ArgentoBot
-
-
 # Descontinuado
 
 
@@ -11,6 +8,7 @@ Aunque el proyecto fué descontinuado, muchos cogs y funciones pueden ser reutil
 El siguiente texto es el antiguo readme.
 
 
+# ArgentoBot
 
 
 Un bot de Discord muy Argentino, versatil y con todo lo que podés llegar a necesitar.
